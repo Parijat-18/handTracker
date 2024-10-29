@@ -202,7 +202,7 @@ python tracker.py
 
 For a detailed step-by-step guide on setting up and using the Hand Gesture Controller, please refer to the video tutorial:
 
-[Hand Gesture Controller Video Tutorial]([https://www.example.com/your-video-link](https://www.linkedin.com/feed/update/urn:li:activity:7256885068663513091/))
+[Hand Gesture Controller Video Tutorial](https://www.linkedin.com/feed/update/urn:li:activity:7256885068663513091/)
 
 ---
 
